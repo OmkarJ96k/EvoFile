@@ -1,1 +1,10 @@
-{"schemaVersion":1,"sources":[]}
+{
+  "schemaVersion": 1,
+  "sources": [
+    "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/VIETNAM/repo.json",
+    "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/GLOBAL/repo.json",
+    "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/KORIAN/repo.json",
+    "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/TAIWAN/repo.json",
+    "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/EVOLUTION-repo/repo.json"
+  ]
+}
