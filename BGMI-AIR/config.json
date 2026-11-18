@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "patchName": "BGMI Air Patch",
+  "fileName": "game_patch_4.7.0.21756.pak",
+  "fileNameUpdate": "BGMI Air Updated Patch v1.0",
+  "downloadURL": "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/BGMI-AIR/game_patch_4.7.0.21756.pak",
+  "targetBundleID": "com.krafton.bgmilite",
+  "targetPath": "Documents/ShadowTrackerExtra/Saved/Paks/puffer_temp/"
+}
